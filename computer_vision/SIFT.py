@@ -52,8 +52,10 @@ def main():
         if m.distance < 0.6 * n.distance:
             result.append([m])
 
-    img5 = cv2.drawMatchesKnn(img1, kp1, img2, kp2, matche, None, flags=2)
-    cv2.imshow("MatchResult", img5)
+    # img5 = cv2.drawMatchesKnn(img1, kp1, img2, kp2, matche, None, flags=2)
+    combine = np.hstack((img3, img4))
+    cv2.imshow("KeyPoints", combine)
+    cv2.waitKey(0)
     cv2.waitKey(0)
 
 
