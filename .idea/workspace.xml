@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7623a168-3d26-4eee-bd40-fb3737713606" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/computer_vision/HOG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2007_002293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer_vision/activation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer_vision/SIFT.py" beforeDir="false" afterPath="$PROJECT_DIR$/computer_vision/SIFT.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,19 +19,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/computer_vision/image_augmentation.py">
+        <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="76">
+              <caret line="1586" column="46" lean-forward="true" selection-start-line="1586" selection-start-column="14" selection-end-line="1586" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/computer_vision/SIFT.py">
+        <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1265">
-              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+            <state relative-caret-position="199">
+              <caret line="7231" column="18" lean-forward="true" selection-start-line="7231" selection-start-column="18" selection-end-line="7231" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/computer_vision/activation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -41,30 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/computer_vision/HOG.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="99" column="17" lean-forward="true" selection-start-line="99" selection-start-column="17" selection-end-line="99" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/2007_000129.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/computer_vision/image_denoising.py">
+        <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/math_ops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="107">
+              <caret line="2348" column="4" selection-start-line="2348" selection-start-column="4" selection-end-line="2348" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -99,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1184660488/cv2/cv2/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="193959">
               <caret line="8468" column="4" selection-start-line="8468" selection-start-column="4" selection-end-line="8468" selection-end-column="4" />
             </state>
           </provider>
@@ -116,16 +104,19 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ksize</find>
       <find>cv::ImreadModes</find>
       <find>render_gradient</find>
       <find>flags</find>
       <find>image</find>
-      <find>alpha</find>
       <find>cell_gradient</find>
       <find>angle_unit</find>
       <find>get_closest_bins</find>
       <find>compute_cell_gradient</find>
+      <find>weight_variable</find>
+      <find>strides</find>
+      <find>ksize</find>
+      <find>padding</find>
+      <find>alpha</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -139,6 +130,9 @@
         <option value="$PROJECT_DIR$/computer_vision/image_augmentation.py" />
         <option value="$PROJECT_DIR$/computer_vision/SIFT.py" />
         <option value="$PROJECT_DIR$/computer_vision/HOG.py" />
+        <option value="$PROJECT_DIR$/computer_vision/alexnet.py" />
+        <option value="$PROJECT_DIR$/computer_vision/cnn_pool.py" />
+        <option value="$PROJECT_DIR$/computer_vision/activation.py" />
       </list>
     </option>
   </component>
@@ -149,9 +143,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="21" />
-    <option name="width" value="1281" />
-    <option name="height" value="657" />
+    <option name="x" value="258" />
+    <option name="y" value="18" />
+    <option name="width" value="1401" />
+    <option name="height" value="981" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -188,17 +183,17 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\PycharmProjects\aiLearnNotes\computer_vision" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PycharmProjects\aiLearnNotes\data" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\aiLearnNotes\computer_vision" />
       <recent name="D:\PycharmProjects\aiLearnNotes\data" />
     </key>
   </component>
@@ -214,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.HOG">
+  <component name="RunManager" selected="Python.activation">
     <configuration name="HOG" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aiLearnNotes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,6 +252,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="activation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aiLearnNotes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/computer_vision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/computer_vision/activation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alexnet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aiLearnNotes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/computer_vision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/computer_vision/alexnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="image_augmentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aiLearnNotes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,64 +316,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="image_denoising" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="aiLearnNotes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/computer_version" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/computer_version/image_denoising.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="image_enhancement" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="aiLearnNotes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/computer_version" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/computer_version/image_enhancement.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.image_denoising" />
-      <item itemvalue="Python.image_enhancement" />
-      <item itemvalue="Python.image_augmentation" />
-      <item itemvalue="Python.SIFT" />
       <item itemvalue="Python.HOG" />
+      <item itemvalue="Python.SIFT" />
+      <item itemvalue="Python.alexnet" />
+      <item itemvalue="Python.image_augmentation" />
+      <item itemvalue="Python.activation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.activation" />
+        <item itemvalue="Python.alexnet" />
         <item itemvalue="Python.HOG" />
         <item itemvalue="Python.SIFT" />
         <item itemvalue="Python.image_augmentation" />
-        <item itemvalue="Python.image_enhancement" />
-        <item itemvalue="Python.image_denoising" />
       </list>
     </recent_temporary>
   </component>
@@ -363,14 +356,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21604449" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17633042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960968" visible="true" weight="0.3410302" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960968" weight="0.3410302" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,7 +371,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" weight="0.32952693" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.17761989" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.43694493" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -502,6 +494,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/computer_vision/HOG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/2007_000129.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -537,17 +539,55 @@
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1184660488/cv2/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="193959">
           <caret line="8468" column="4" selection-start-line="8468" selection-start-column="4" selection-end-line="8468" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/computer_vision/HOG.py">
+    <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/math_ops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="99" column="17" lean-forward="true" selection-start-line="99" selection-start-column="17" selection-end-line="99" selection-end-column="17" />
+        <state relative-caret-position="107">
+          <caret line="2348" column="4" selection-start-line="2348" selection-start-column="4" selection-end-line="2348" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="7231" column="18" lean-forward="true" selection-start-line="7231" selection-start-column="18" selection-end-line="7231" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer_vision/alexnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer_vision/cnn_pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="1586" column="46" lean-forward="true" selection-start-line="1586" selection-start-column="14" selection-end-line="1586" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer_vision/activation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
