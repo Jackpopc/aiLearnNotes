@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7623a168-3d26-4eee-bd40-fb3737713606" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/computer_vision/activation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer_vision/dropout.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="1586" column="46" lean-forward="true" selection-start-line="1586" selection-start-column="14" selection-end-line="1586" selection-end-column="46" />
+            <state relative-caret-position="101">
+              <caret line="2260" lean-forward="true" selection-start-line="2260" selection-end-line="2260" />
             </state>
           </provider>
         </entry>
@@ -30,17 +30,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="7231" column="18" lean-forward="true" selection-start-line="7231" selection-start-column="18" selection-end-line="7231" selection-end-column="18" />
+            <state relative-caret-position="165922">
+              <caret line="7231" column="18" selection-start-line="7231" selection-start-column="18" selection-end-line="7231" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/computer_vision/activation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+            <state relative-caret-position="782">
+              <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -48,10 +48,28 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/computer_vision/dropout.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/nn_impl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="779" column="5" selection-start-line="779" selection-start-column="5" selection-end-line="785" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/math_ops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
+            <state relative-caret-position="53383">
               <caret line="2348" column="4" selection-start-line="2348" selection-start-column="4" selection-end-line="2348" selection-end-column="4" />
             </state>
           </provider>
@@ -117,6 +135,7 @@
       <find>ksize</find>
       <find>padding</find>
       <find>alpha</find>
+      <find>keep_prob</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -133,6 +152,7 @@
         <option value="$PROJECT_DIR$/computer_vision/alexnet.py" />
         <option value="$PROJECT_DIR$/computer_vision/cnn_pool.py" />
         <option value="$PROJECT_DIR$/computer_vision/activation.py" />
+        <option value="$PROJECT_DIR$/computer_vision/bn.py" />
       </list>
     </option>
   </component>
@@ -156,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,6 +197,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,7 +377,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17633042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17633042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -371,7 +391,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" weight="0.32952693" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.43694493" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.43694493" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -516,6 +536,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/computer_vision/alexnet.py" />
+    <entry file="file://$PROJECT_DIR$/computer_vision/cnn_pool.py" />
+    <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165922">
+          <caret line="7231" column="18" selection-start-line="7231" selection-start-column="18" selection-end-line="7231" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer_vision/activation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53383">
+          <caret line="2348" column="4" selection-start-line="2348" selection-start-column="4" selection-end-line="2348" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://C:/Python36/Lib/site-packages/skimage/util/noise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2139">
@@ -544,51 +590,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/math_ops.py">
+    <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/nn_impl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="2348" column="4" selection-start-line="2348" selection-start-column="4" selection-end-line="2348" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="7231" column="18" lean-forward="true" selection-start-line="7231" selection-start-column="18" selection-end-line="7231" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/computer_vision/alexnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/computer_vision/cnn_pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        <state relative-caret-position="28">
+          <caret line="779" column="5" selection-start-line="779" selection-start-column="5" selection-end-line="785" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Python36/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="1586" column="46" lean-forward="true" selection-start-line="1586" selection-start-column="14" selection-end-line="1586" selection-end-column="46" />
+        <state relative-caret-position="101">
+          <caret line="2260" lean-forward="true" selection-start-line="2260" selection-end-line="2260" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/computer_vision/activation.py">
+    <entry file="file://$PROJECT_DIR$/computer_vision/dropout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="138">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
