@@ -26,7 +26,7 @@ aiLearnNotes目前主要包括如下4个方向内容，
 首先按照依赖环境，
 
 ```shell
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 然后进入不同目录下直接执行对应的程序即可，例如，
