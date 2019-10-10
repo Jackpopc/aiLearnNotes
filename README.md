@@ -1,7 +1,4 @@
-# 
-
 <h1 align="left">aiLearnNotes</h1>
-
 <p align="center">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jackpopc/aiLearnNotes?style=social">
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Jackpopc/aiLearnNotes?style=social">
@@ -18,7 +15,6 @@
 </p>
 
 <h1 align="left">Contents</h1>
-
 aiLearnNotes目前主要包括如下4个方向内容，
 
 - [计算机视觉](./computer_vision)
@@ -27,7 +23,6 @@ aiLearnNotes目前主要包括如下4个方向内容，
 - [优化算法][optimization_algorithm]
 
 <h1 align="left">Usage</h1>
-
 首先按照依赖环境，
 
 ```shell
@@ -42,7 +37,6 @@ $ python HOG.py
 ```
 
 <h1 align="left">Support</h1>
-
 如果觉得本项目有帮助，可以关注公众号平凡而诗意或者知乎Jackpop，也可以收藏我的个人主页。
 
 >  知乎：[Jackpopc](https://www.zhihu.com/people/sharetechlee/activities)
