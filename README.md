@@ -19,8 +19,8 @@ aiLearnNotes目前主要包括如下4个方向内容，
 
 - [计算机视觉](./computer_vision)
 - [机器学习](./machine_leaning)
-- [强化学习](reinforcement_learning)
-- [优化算法][optimization_algorithm]
+- [强化学习](./reinforcement_learning)
+- [优化算法](./optimization_algorithm)
 
 <h1 align="left">Usage</h1>
 首先按照依赖环境，
