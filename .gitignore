@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.git
+.idea
+
+*.jpg
+*.gz
