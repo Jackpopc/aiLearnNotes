@@ -39,7 +39,7 @@ $ python HOG.py
 <h1 align="left">Support</h1>
 如果觉得本项目有帮助，可以关注公众号平凡而诗意或者知乎Jackpop，也可以收藏我的个人主页。
 
->  知乎：[Jackpopc](https://www.zhihu.com/people/sharetechlee/activities)
+>  知乎：[Jackpop](https://www.zhihu.com/people/sharetechlee/activities)
 >
 > 主页：[平凡而诗意](https://jackpopc.github.io/)
 >
