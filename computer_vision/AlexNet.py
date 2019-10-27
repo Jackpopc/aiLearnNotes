@@ -36,7 +36,7 @@ class AlexNet(object):
         fc_2 = self.full_connect_layer(drop1, 4096, "fc_2")
         drop2 = self.dropout(fc_2, self.keep_prob)
         fc_3 = self.full_connect_layer(drop2, self.num_classes, "fc_3")
-        return fc_3
+        return tf.nn.softmax(fc_3)
 
     def conv_layer(self, X, ksize, out_filters, stride, name):
         in_filters = int(X.get_shape()[-1])
