@@ -1,9 +1,3 @@
----
-title: 【动手学计算机视觉】第十四讲：正则化之Dropout
----
-
-本文完整代码请查看：[aiLearnNotes](https://github.com/Jackpopc/aiLearnNotes/blob/master/computer_vision/dropout.py)
-
 # 前言
 
 在前几讲里已经介绍了卷积神经网络中常用的一些单元，例如，
@@ -191,3 +185,4 @@ Dropout的训练过程中与Bagging集成学习方法类似，以上图为例，
 
 ![np6CKU.png](https://s2.ax1x.com/2019/09/01/np6CKU.png)
 
+本文完整代码请查看：[aiLearnNotes](https://github.com/Jackpopc/aiLearnNotes/blob/master/computer_vision/dropout.py)

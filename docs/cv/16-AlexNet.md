@@ -1,7 +1,3 @@
----
-title: 【动手学计算机视觉】第十六讲：卷积神经网络之AlexNet
----
-
 # 前言
 
 ![uv4Na8.png](https://s2.ax1x.com/2019/10/13/uv4Na8.png)

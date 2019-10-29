@@ -1,7 +1,3 @@
----
-title: 【动手学计算机视觉】第十五讲：卷积神经网络之LeNet
----
-
 # 前言
 
 ![n6JaHe.png](https://s2.ax1x.com/2019/09/14/n6JaHe.png)

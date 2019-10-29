@@ -1,7 +1,3 @@
----
-title: 【动手学计算机视觉】第十七讲：卷积神经网络之VGG
----
-
 # 前言
 
 [![KyYVj1.md.png](https://s2.ax1x.com/2019/10/27/KyYVj1.md.png)](https://imgchr.com/i/KyYVj1)

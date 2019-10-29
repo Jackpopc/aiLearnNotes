@@ -1,9 +1,3 @@
----
-title: 【动手学计算机视觉】第十二讲：激活函数
----
-
-**完整代码**链接：[aiLearnNotes](https://github.com/Jackpopc/aiLearnNotes/blob/master/computer_vision/activation.py)
-
 # 前言
 
 激活函数不仅对于卷积神经网络非常重要，在传统机器学习中也具备着举足轻重的地位，是卷积神经网络模型中必不可少的一个单元，要理解激活函数，需要从2个方面进行讨论：
@@ -154,3 +148,5 @@ tensorflow中激活函数输入有两个参数：
 
 - features：输入的特征张量，也就是前一层池化层或者卷积层输出的结果，数据类型限制在float32, float64, int32, uint8, int16, int8, int64, float16, uint16, uint32, uint64
 - name：运算的名称，这个可以自行命名
+
+**完整代码**链接：[aiLearnNotes](https://github.com/Jackpopc/aiLearnNotes/blob/master/computer_vision/activation.py)

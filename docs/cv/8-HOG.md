@@ -1,7 +1,3 @@
----
-title: 【动手学计算机视觉】第八讲：传统目标检测之HOG特征
----
-
 ## 前言
 
 ![erkAC8.png](https://s2.ax1x.com/2019/08/03/erkAC8.png)

@@ -1,7 +1,3 @@
----
-title: 【动手学计算机视觉】第九讲：传统目标检测之DPM模型
----
-
 # 前言
 
 ![erJsKA.png](https://s2.ax1x.com/2019/08/03/erJsKA.png)

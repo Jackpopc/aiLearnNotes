@@ -1,7 +1,3 @@
----
-title: 【动手学计算机视觉】第五讲：传统目标检测之特征工程
----
-
 ## 前言
 
 随着2012年[AlexNet](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)在ImageNet挑战赛一举夺魁，让深度卷积网络迅速霸占了目标识别和计算机视觉的头把交椅。随后的VGG、R-CNN、SSD、YOLO让深度卷积网络在计算机视觉领域的地位更加稳固。
