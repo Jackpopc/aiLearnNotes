@@ -70,7 +70,7 @@ SIFT使用的特征描述子和后面要讲的HOG有很多相似之处。它一�
 
 本文代码已经放在github，感兴趣的可以自行查看，
 
-https://github.com/jakpopc/aiLearnNotes/blob/master/computer_vision/SIFT.pygithub.com
+https://github.com/jakpopc/aiLearnNotes/blob/master/computer_vision/SIFT.py
 
 本文实现SIFT特征检测主要基于以下工具包：
 
