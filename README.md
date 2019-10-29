@@ -15,12 +15,22 @@
 </p>
 
 <h1 align="left">Contents</h1>
-aiLearnNotes目前主要包括如下4个方向内容，
+aiLearnNotes每一讲有对应的<b>文档</b>和<b>代码</b>，内容涉及计算机视觉、机器学习、强化学习、优化算法等。
+
+## Code
+
+aiLearnNotes代码链接如下，
 
 - [计算机视觉](./computer_vision)
 - [机器学习](./machine_leaning)
 - [强化学习](./reinforcement_learning)
 - [优化算法](./optimization_algorithm)
+
+## Docs
+
+代码可以点击上面条目直接访问，文档放在docs目录下，可以点击下面目录访问，
+
+- [计算机视觉](./docs/cv/0-Contents.md)
 
 <h1 align="left">Usage</h1>
 首先按照依赖环境，
